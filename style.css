@@ -1,0 +1,32 @@
+.heading {
+    text-align: center;
+    color: red;
+}
+
+.output {
+    background-color: gainsboro;
+    border-radius: 20px;
+    box-shadow: 7px 7px 5px rgba(128, 0, 128, 0.633);
+    padding: 25px;
+    display: inline-flex;
+    margin-bottom: 100px;
+}
+
+.copy_right_footer {
+    background-color: beige;
+    color: rgba(0, 0, 0, 0.733);
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    padding: 10px;
+    border-color: black;
+    border-width: 5px;
+    border-style: double;
+    margin-left: 110px;
+}
+
+body {
+    background-color: rgba(128, 128, 128, 0.025);
+}
